@@ -1,5 +1,4 @@
-龙探长
-# 使用方法
+# 龙探长 使用方法
 ```
 #linux 或macos
 ./OracleTools --token="" --chatid=""
